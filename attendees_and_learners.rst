@@ -2,11 +2,16 @@
 Attendees & learners
 ####################
 
+
 This is a record of people who attended a *Don't be afraid to commit* workshop,
 or followed the tutorial in their own time.
 
 Workshops
 =========
+
+Dutch Django Association Spring in Amsterdam, 7th March 2015
+------------------------------------------------------------
+* Floris, hoera!
 
 Dutch Django Association Sprint in Amsterdam, 22nd February 2014
 ----------------------------------------------------------------
